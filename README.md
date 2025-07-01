@@ -36,3 +36,11 @@ Confusion matrix is visualized using seaborn's heatmap, showing correct and inco
 Finally, the model is tested on a new custom message to demonstrate real-time prediction, which outputs whether the message is spam or not.
 
 Overall, this code provides a complete pipeline for spam detection, from data upload and preprocessing to model training and evaluation, all done interactively and efficiently in Google Colab.
+
+![Image](https://github.com/user-attachments/assets/0d237f3c-810b-41d5-8d16-1c871dff2812)
+
+![Image](https://github.com/user-attachments/assets/e2528391-5e24-4f58-ad7c-cbda63a3e82e)
+
+![Image](https://github.com/user-attachments/assets/4e79b2ca-e611-42e1-a8e1-c6b317de1b41)
+
+![Image](https://github.com/user-attachments/assets/3f1cb863-0b6c-40e7-bc4d-3f9359410263)
